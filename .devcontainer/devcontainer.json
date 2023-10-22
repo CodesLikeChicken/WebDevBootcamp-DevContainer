@@ -1,0 +1,16 @@
+{
+    "name": "Node Js",
+    "image": "node:21",
+
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "streetsidesoftware.code-spell-checker",
+                "ms-vscode.live-server",
+                "vscode-icons-team.vscode-icons",
+                "esbenp.prettier-vscode"
+            ]
+        }
+    }
+}
